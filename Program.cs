@@ -1,6 +1,6 @@
 ﻿// Урок_2 : Написать код по поиску фильмов.
 
-Console.Clear();
+/*Console.Clear();
 
 Console.WriteLine("Здравствуйте, эта программа поможет подобрать вам интересный фильм !");
 Console.WriteLine("Как я могу к вам обращаться ?");
@@ -38,3 +38,21 @@ else
 }
 
 Console.ReadLine();
+*/
+
+Console.Clear();
+
+String a = Console.ReadLine();
+String b = Console.ReadLine();
+
+int num1 = Int32.Parse(a);
+int num2 = Int32.Parse(b);
+int result = num1 + num2;
+Console.WriteLine(result);
+result = num1 * num2;
+Console.WriteLine(result);
+
+double average = (double)(num1 + num2) / 2;
+Console.WriteLine(average);
+
+
