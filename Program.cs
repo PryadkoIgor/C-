@@ -9,7 +9,7 @@ string name = Console.ReadLine();
 
 Console.Write("Здравствуйте, " + name); Console.WriteLine(" !");
 
-Console.WriteLine("Фильм какого жанра Вы хотели бы посмотреть: комедия или драма ?");
+Console.WriteLine("Фильм какого жанра Вы хотели бы посмотреть: комедия, фантастика, боевик или драма ?");
 string genre = Console.ReadLine();
 
 if (genre == "комедия")
@@ -17,6 +17,18 @@ if (genre == "комедия")
     Console.WriteLine("*В джазе только девушки");
     Console.WriteLine("*Последий богатырь");
     Console.WriteLine("*Ёлки");
+}
+else if (genre == "фантастика")
+{
+    Console.WriteLine("*Черепашки ниндзя");
+    Console.WriteLine("*Люди Икс");
+    Console.WriteLine("*Эквалибриум");
+}
+else if (genre == "боевик")
+{
+    Console.WriteLine("*Красная жара");
+    Console.WriteLine("*Терминатор");
+    Console.WriteLine("*Снайпер");
 }
 else
 {
