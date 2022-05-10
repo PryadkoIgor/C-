@@ -1,0 +1,15 @@
+W:\GB\C# Быстрый старт\Урок_1-7\bin\Debug\net6.0\Урок_1-7.exe
+W:\GB\C# Быстрый старт\Урок_1-7\bin\Debug\net6.0\Урок_1-7.deps.json
+W:\GB\C# Быстрый старт\Урок_1-7\bin\Debug\net6.0\Урок_1-7.runtimeconfig.json
+W:\GB\C# Быстрый старт\Урок_1-7\bin\Debug\net6.0\Урок_1-7.dll
+W:\GB\C# Быстрый старт\Урок_1-7\bin\Debug\net6.0\Урок_1-7.pdb
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.csproj.AssemblyReference.cache
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.GeneratedMSBuildEditorConfig.editorconfig
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.AssemblyInfoInputs.cache
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.AssemblyInfo.cs
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.csproj.CoreCompileInputs.cache
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.dll
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\refint\Урок_1-7.dll
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.pdb
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\Урок_1-7.genruntimeconfig.cache
+W:\GB\C# Быстрый старт\Урок_1-7\obj\Debug\net6.0\ref\Урок_1-7.dll
